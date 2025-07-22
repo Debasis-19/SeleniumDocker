@@ -54,6 +54,15 @@ public class BaseTest {
                     throw new RuntimeException(e);
                 }
             }
+            else if (AppConstants.platform.equalsIgnoreCase("remote_git")) {
+                options = new ChromeOptions();
+                options.addArguments("--headless");//for github actions
+                options.addArguments("--disable-gpu");
+                options.addArguments("--no-sandbox");
+                options.addArguments("--remote-allow-origins=*");
+                driver = new ChromeDriver(options);
+                setDriver(driver);
+            }
         } else if (browser.equalsIgnoreCase("firefox")) {
             if(AppConstants.platform.equalsIgnoreCase("local")){
                 driver = new FirefoxDriver();
