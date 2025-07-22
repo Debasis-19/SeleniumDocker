@@ -1,0 +1,19 @@
+services:
+  chrome:
+    image: selenium/standalone-chrome
+    hostname: chrome
+    privileged: true
+    ports:
+      - "4444:4444"
+    shm_size: 2gb
+    environment:
+      - SE_VNC_NO_PASSWORD=1
+      - SE_NODE_MAX_SESSIONS=1
+
+  firefox:
+    image: selenium/standalone-firefox
+    hostname: firefox
+    privileged: true
+    ports:
+      - "4445:4444"
+    shm_size: 2gb

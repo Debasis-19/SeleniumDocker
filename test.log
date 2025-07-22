@@ -1,0 +1,49 @@
+604  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\debas\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+3820 [main] INFO  tests.ProductTest -- Logging to App
+4143 [main] INFO  tests.ProductTest -- Application logged in successfully
+4912 [main] INFO  tests.ProductTest -- Application logged out
+493  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\debas\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2623 [main] INFO  tests.ProductTest -- Logging to App
+2947 [main] INFO  tests.ProductTest -- Application logged in successfully
+2963 [main] INFO  tests.ProductTest -- Product names fetched : 
+3706 [main] INFO  tests.ProductTest -- Application logged out
+12681 [TestNG-tests-2] INFO  tests.ProductTest -- Logging to App
+13397 [TestNG-tests-2] INFO  tests.ProductTest -- Application logged in successfully
+13414 [TestNG-tests-2] INFO  tests.ProductTest -- Product names fetched : 
+14084 [TestNG-tests-2] INFO  tests.ProductTest -- Application logged out
+8546 [TestNG-tests-2] INFO  tests.ProductTest -- Logging to App
+9399 [TestNG-tests-2] INFO  tests.ProductTest -- Application logged in successfully
+9586 [TestNG-tests-2] INFO  tests.ProductTest -- Product names fetched : 
+10641 [TestNG-tests-2] INFO  tests.ProductTest -- Application logged out
+11941 [TestNG-tests-2] INFO  tests.ProductTest -- Logging to App
+12618 [TestNG-tests-2] INFO  tests.ProductTest -- Application logged in successfully
+12654 [TestNG-tests-2] INFO  tests.ProductTest -- Product names fetched : 
+13185 [TestNG-tests-2] INFO  tests.ProductTest -- Application logged out
+7415 [TestNG-tests-2] INFO  tests.ProductTest -- Logging to App
+7916 [TestNG-tests-2] INFO  tests.ProductTest -- Application logged in successfully
+7949 [TestNG-tests-2] INFO  tests.ProductTest -- Product names fetched : 
+8409 [TestNG-tests-2] INFO  tests.ProductTest -- Application logged out
+8012 [TestNG-tests-2] INFO  tests.ProductTest -- Logging to App
+8406 [TestNG-tests-2] INFO  tests.ProductTest -- Application logged in successfully
+8416 [TestNG-tests-2] INFO  tests.ProductTest -- Product names fetched : 
+8985 [TestNG-tests-2] INFO  tests.ProductTest -- Application logged out
+4381 [TestNG-tests-2] INFO  tests.ProductTest -- Logging to App
+4850 [TestNG-tests-2] INFO  tests.ProductTest -- Application logged in successfully
+4881 [TestNG-tests-2] INFO  tests.ProductTest -- Product names fetched : 
+5273 [TestNG-tests-2] INFO  tests.ProductTest -- Application logged out
+11194 [TestNG-tests-2] INFO  tests.ProductTest -- Logging to App
+11773 [TestNG-tests-2] INFO  tests.ProductTest -- Application logged in successfully
+11797 [TestNG-tests-2] INFO  tests.ProductTest -- Product names fetched : 
+12492 [TestNG-tests-2] INFO  tests.ProductTest -- Application logged out
+3356 [TestNG-tests-2] INFO  tests.ProductTest -- Logging to App
+3857 [TestNG-tests-2] INFO  tests.ProductTest -- Application logged in successfully
+3894 [TestNG-tests-2] INFO  tests.ProductTest -- Product names fetched : 
+4315 [TestNG-tests-2] INFO  tests.ProductTest -- Application logged out
+6643 [TestNG-tests-2] INFO  tests.ProductTest -- Logging to App
+7100 [TestNG-tests-2] INFO  tests.ProductTest -- Application logged in successfully
+7125 [TestNG-tests-2] INFO  tests.ProductTest -- Product names fetched : 
+7786 [TestNG-tests-2] INFO  tests.ProductTest -- Application logged out
