@@ -14,6 +14,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.version>3.11.0</maven.compiler.version>
         <maven.surefire.version>3.1.2</maven.surefire.version>
+        <suiteXmlFile>testng_maven.xml</suiteXmlFile>
     </properties>
 
     <dependencies>
